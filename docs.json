@@ -122,5 +122,11 @@
   },
   "styling": {
     "eyebrows": "breadcrumbs"
-  }
+  },
+  "redirects": [
+    {
+      "source": "/dave",
+      "destination": "/new-stuff/dave"
+    }
+  ]
 }
